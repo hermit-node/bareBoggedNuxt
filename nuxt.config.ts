@@ -5,7 +5,6 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
         "@nuxt/image",
         '@davestewart/nuxt-scrollbar',
-        "@ant-design-vue/nuxt",
         "maz-ui/nuxt",
         "@unocss/nuxt",
         "@nuxt/icon",

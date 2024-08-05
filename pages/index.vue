@@ -1,8 +1,9 @@
 <script setup lang="ts">
+import ComponentsPreview from "~/components/componentsPreview.vue";
+
 const text = ref('Congratulations!')
 const elementRef = ref(null)
 const data = reactive({secretNumber: 22})
-
 </script>
 
 <template lang="pug">
@@ -13,7 +14,7 @@ const data = reactive({secretNumber: 22})
       h2 {{text}}
   .content-body
     .mallable#elementRef
-    .components
+    components-preview
     .icons
 </template>
 
