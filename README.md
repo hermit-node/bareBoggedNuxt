@@ -3,7 +3,6 @@ I've crammed Nuxt 3 with a whole bunch of modules and it's currently working in 
 
 currently using:
 
-	Ant Design Vue
 	AnimeJS
 	Iconify
 	Nuxt (Content, Icon, Image, Kit)
